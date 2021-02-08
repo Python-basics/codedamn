@@ -1,22 +1,18 @@
 
 """
-10) custom function
+11) function and docstring
+
 
 """
 
-
-
-#  Finish the function that prints out your name
-
-def name():
-
-
+# create a function goodbye that prints out "goodbye"
+# and has a docstring
 
 
 
 
 def main():
-    name()
+    goodbye()
 
 
 
