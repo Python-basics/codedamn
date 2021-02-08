@@ -1,21 +1,24 @@
 
+
 """
-18) for loop
-iterate through list
+19) wrap previous for loop in function
+
+
 """
 
 grades = [81,76,96,93,95,100]
 
 
-# write a for loop on grade that prints out if they are divisable by 3
-# code below
+def divisable_by_3(l):
+    # write code below
 
 
 
 
+    
 
 def main():
-    pass
+    divisable_by_3(grades)
 
 
 
