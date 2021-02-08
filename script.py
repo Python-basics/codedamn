@@ -1,27 +1,17 @@
 """
-13) Booleans conditions
+14) reassign increment inplace
 """
 
-# make the following eqivalent
 
-"""
-eg.
-test = 4 != 3  # I made test Test 4 don't equal 3
-"""
+x = 4
 
-    
-no = 1 ==       # finish equivalence making no True
+x = x   # make x equal 10
 
-nope = 3 !=     # finish equivalence making nope False
+new = x   # new equal 8
 
-maybe = 5 >=    # finish equivalence making maybe True
+new   new   # use incrementing to increase new to 10
 
-
-
-
-
-
-
+new   new     # use decrementing to decrease new to 5
 
 
 
@@ -31,18 +21,14 @@ maybe = 5 >=    # finish equivalence making maybe True
 
 
 def main():
-    if no == True:
-        print(f"no: passed test, got {no}, expected True")
+    if x == 10:
+        print(f"x: passed test, got {x}, expected 10")
     else:
-        print(f"no: failed test, got {no}, expected True")
-    if nope == False:
-        print(f"nope: passed test, got {nope}, expected False")
+        print(f"x: failed test, got {x}, expected 10")
+    if new == 5:
+        print(f"new: passed test, got {new}, expected 5")
     else:
-        print(f"nope: failed test, got {nope}, expected False")
-    if maybe == True:
-        print(f"maybe: passed test, got {maybe}, expected True")
-    else:
-        print(f"maybe: failed test, got {maybe}, expected True")
+        print(f"new: failed test, got {new}, expected 5")
 
 
 
