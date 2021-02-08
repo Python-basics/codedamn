@@ -1,7 +1,7 @@
 
 """
 
-21) range function
+20) range function
 
 3
 6
