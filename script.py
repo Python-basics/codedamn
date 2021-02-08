@@ -1,16 +1,14 @@
 
 """
-9) for loop
+10) custom function
+
 """
 
 
-word = "CatMat"
 
+#  Finish the function that prints out your name
 
-# run a for loop on word
-# finish the code to print out each letter, one at a time
-for i in  :
-    print()
+def name():
 
 
 
@@ -18,9 +16,10 @@ for i in  :
 
 
 def main():
-    pass
+    name()
 
 
 
 if __name__ == "__main__":
     main()
+
