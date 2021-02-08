@@ -1,17 +1,16 @@
 
-
 """
-7) syntax/variable rules
-
+9) for loop
 """
 
-# fix what's wrong
 
-4_test = 5
+word = "CatMat"
 
-print("hello)
 
-test 1 = 97
+# run a for loop on word
+# finish the code to print out each letter, one at a time
+for i in  :
+    print()
 
 
 
