@@ -1,26 +1,30 @@
 """
-16) if / else
+17) modulo operator
+eg. r_1 = 3 % 2 # to assign a remainder of 1
 """
 
-# write an if / else if the following numbers are less than 10
-# uncomment one at a time to test your condition 
+r_2 = 5 %    # enter a number to assign a remainder of 2
 
-x = 11
-##x = 12
-##x = 8   
+r_5 = 11 %   # enter a number to assign a remainder of 5
 
-if :  # finish by writing condition here
-    print(f"Yes {x} is less than 10")
-else:
-    print(f"no {x} is not less than 10")
-
-
-
+r_3 = 10 %   # enter a number to assign a remainder of 3
 
 
 
 def main():
-    pass
+    if r_2 == 2:
+        print(f"r_2: passed test, got {r_2} expected 2")
+    else:
+        print(f"r_2: failed test, got {r_2} expected 2 ")
+    if r_5 == 5:
+        print(f"r_5: passed test, got {r_5} expected 5")
+    else:
+        print(f"r_5: failed test, got {r_5} expected 5")
+    if r_3 == 3:
+        print(f"r_3: passed test, got {r_3} expected 3")
+    else:
+        print(f"r_3: failed test, got {r_3} expected 3")
+
 
 
 
