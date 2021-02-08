@@ -1,27 +1,19 @@
 """
-15) while loop
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0   print out like this
+16) if / else
 """
 
-x = 10
+# write an if / else if the following numbers are less than 10
+# uncomment one at a time to test your condition 
 
-# count down from 10 to 0, just like the example above
-# fill in the head state with a condition
-# fill in the body, you need two lines one to change value
-# and eon to print
+x = 11
+##x = 12
+##x = 8   
 
-while  :
-   
+if :  # finish by writing condition here
+    print(f"Yes {x} is less than 10")
+else:
+    print(f"no {x} is not less than 10")
+
 
 
 
