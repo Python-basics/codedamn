@@ -1,30 +1,21 @@
+
 """
-17) modulo operator
-eg. r_1 = 3 % 2 # to assign a remainder of 1
+18) for loop
+iterate through list
 """
 
-r_2 = 5 %    # enter a number to assign a remainder of 2
+grades = [81,76,96,93,95,100]
 
-r_5 = 11 %   # enter a number to assign a remainder of 5
 
-r_3 = 10 %   # enter a number to assign a remainder of 3
+# write a for loop on grade that prints out if they are divisable by 3
+# code below
+
+
 
 
 
 def main():
-    if r_2 == 2:
-        print(f"r_2: passed test, got {r_2} expected 2")
-    else:
-        print(f"r_2: failed test, got {r_2} expected 2 ")
-    if r_5 == 5:
-        print(f"r_5: passed test, got {r_5} expected 5")
-    else:
-        print(f"r_5: failed test, got {r_5} expected 5")
-    if r_3 == 3:
-        print(f"r_3: passed test, got {r_3} expected 3")
-    else:
-        print(f"r_3: failed test, got {r_3} expected 3")
-
+    pass
 
 
 
