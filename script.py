@@ -5,11 +5,11 @@ three type assignment"""
 
 
 
-name =         # str -- string
+name =  # str -- string
 
-age =          # int -- integer 
+age =   # int -- integer 
 
-decimal =      # float --  float
+decimal = # float --  float
 
 
 
