@@ -20,20 +20,24 @@ decimal = # float --  float
 
 
 def main():
-    if type(name) == str:
-        print(f"{name}  passed test")
-    else:
-        print(f"{name}:  failed test")
-    if type(age) == int:
-        print(f"{age}:  passed test")
-    else:
-        print(f"{age}:  failed test")
-    if type(decimal) == float:
-        print(f"{decimal}:  passed test")
-    else:
-        print(f"{decimal}:  failed test")
+    try:
+        if type(name) == str:
+            print(f"{name}  passed test")
+        else:
+            print(f"{name}:  failed test")
+        if type(age) == int:
+            print(f"{age}:  passed test")
+        else:
+            print(f"{age}:  failed test")
+        if type(decimal) == float:
+            print(f"{decimal}:  passed test")
+        else:
+            print(f"{decimal}:  failed test")
+    except:
+        pass
 
 if __name__ == "__main__":
     main()
+
   
 
