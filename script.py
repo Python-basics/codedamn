@@ -2,7 +2,6 @@
 
 """
 7) syntax/variable rules
-
 """
 
 # fix what's wrong
