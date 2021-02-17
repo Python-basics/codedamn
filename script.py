@@ -22,18 +22,18 @@ decimal = # float --  float
 def main():
     try:
         if type(name) == str:
-            print(f"{name}  passed test")
+            print(f"{name} passed test")
             return True
         else:
-            print(f"{name}:  failed test")
+            print(f"{name}: failed test")
         if type(age) == int:
-            print(f"{age}:  passed test")
+            print(f"{age}: passed test")
         else:
-            print(f"{age}:  failed test")
+            print(f"{age}: failed test")
         if type(decimal) == float:
-            print(f"{decimal}:  passed test")
+            print(f"{decimal}: passed test")
         else:
-            print(f"{decimal}:  failed test")
+            print(f"{decimal}: failed test")
     except:
         pass
 
