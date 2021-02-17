@@ -1,38 +1,40 @@
 
-"""
-14) reassign increment inplace
 
 """
+15) while loop
 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0   print out like this
+"""
 
-x = 4
+x = 10
 
-x = x   # make x equal 10
+# count down from 10 to 0, just like the example above
+# fill in the head state with a condition
+# fill in the body, you need two lines one to change value
+# and eon to print
 
-new = x   # new equal 8
-
-new   new   # use incrementing to increase new to 10
-
-new   new     # use decrementing to decrease new to 5
-
-
-
+while  :
+   
 
 
 
 
 
 def main():
-    if x == 10:
-        print(f"x: passed test, got {x}, expected 10")
-    else:
-        print(f"x: failed test, got {x}, expected 10")
-    if new == 5:
-        print(f"new: passed test, got {new}, expected 5")
-    else:
-        print(f"new: failed test, got {new}, expected 5")
+    pass
 
 
 
 if __name__ == "__main__":
     main()
+
