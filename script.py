@@ -1,24 +1,16 @@
 
 """
-21) slicing with step
-
+22) input function
 
 """
 
+# use an input function to ask for someones name and run srcipt
 
 
-letters = "abcdefghijk"
+name = 
 
 
-every_other =           # assign every other letter from letters
-
-every_third =           #  assign every 3rd letter from letters
-
-first_3_every_other =   # assign the three letter everyother 1 eg. ace 
-
-
-
-
+print(f"Hi {name} nice to meet you")
 
 
 
@@ -26,21 +18,12 @@ first_3_every_other =   # assign the three letter everyother 1 eg. ace
 
 
 def main():
-    if every_other == "acegik":
-        print(f"every_other: passed test, got {every_other} expected acegik")
+    if len(name) > 0 and name.isalpha():
+        print("name: passed test")
     else:
-        print(f"every_other: failed test, got {every_other} expected acegik")
-    if every_third == "adgj":
-        print(f"every_third: passed test, got {every_third} expected acegik")
-    else:
-        print(f"every_other: failed test, got {every_third} expected acegik")
-    if first_3_every_other == "ace":
-        print(f"every_other: passed test, got {first_3_every_other} expected acegik")
-    else:
-        print(f"first_3_every_other: failed test, got {first_3_every_other} expected acegik")
+        print("name: failed test\nplease try again")
 
 
 
 if __name__ == "__main__":
     main()
-
