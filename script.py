@@ -23,7 +23,7 @@ def main():
     try:
         if type(name) == str:
             print(f"{name}  passed test")
-            return [True]
+            return True
         else:
             print(f"{name}:  failed test")
         if type(age) == int:
