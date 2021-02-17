@@ -1,24 +1,34 @@
 
 
 """
-19) wrap previous for loop in function
 
+20) range function
 
+3
+6
+9
+12
+15
+18  create a print out like this
 """
 
-grades = [81,76,96,93,95,100]
-
-
-def divisable_by_3(l):
-    # write code below
+# use a for loop and range function to create a print out like above
+# code below
 
 
 
 
-    
+
+
+
+
+
+
+
+
 
 def main():
-    divisable_by_3(grades)
+    pass
 
 
 
