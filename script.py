@@ -20,10 +20,11 @@ decimal = # float --  float
 
 
 def main():
+    l = []
     try:
         if type(name) == str:
             print(f"{name} passed test")
-            return True
+            l.append(True)
         else:
             print(f"{name}: failed test")
         if type(age) == int:
