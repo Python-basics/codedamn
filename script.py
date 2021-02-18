@@ -9,10 +9,7 @@ students = [40,38,24,45,48,32,34]
 
 def total(l):
     sub_ttl = 0     # this is your sub-total starting point 
-    for i in students:
-        sub_ttl += i
-    return sub_ttl
-
+    
 
 def main():
     try:
