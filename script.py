@@ -2,7 +2,7 @@
 three type assignment"""
 
 # assign the following types 
-import os, sys, json, importlib
+#import os, sys, json, importlib
 
 
 #name =  # str -- string
@@ -11,7 +11,7 @@ import os, sys, json, importlib
 
 #decimal = # float --  float
 
-var1 = 100
+variable1 = 100
 
 
 import os
@@ -38,5 +38,3 @@ except:
 f = open(os.environ.get('UNIT_TEST_OUTPUT_FILE'), "w")
 f.write(json.dumps(results))
 f.close()
-  
-
