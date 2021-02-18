@@ -2,7 +2,7 @@
 three type assignment"""
 
 # assign the following types 
-
+import os, sys
 
 
 name =  # str -- string
