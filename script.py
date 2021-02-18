@@ -2,42 +2,41 @@
 three type assignment"""
 
 # assign the following types 
-import os, sys
+import os, sys, json, importlib
 
 
-name =  # str -- string
+#name =  # str -- string
 
-age =   # int -- integer 
+#age =   # int -- integer 
 
-decimal = # float --  float
+#decimal = # float --  float
+
+var1 = 100
 
 
+import os
+import json
+import sys
+import importlib
+sys.path.append(os.environ.get('USER_CODE_DIR'))
 
-if __name__ == "__main__":  
-    l = []
-    out = open(os.environ['OUTPUT_PATH'],'w')
-    try:
-        if type(name) == str:
-            print(f"{name} passed test")
-            l.append(True)
-        else:
-            print(f"{name}: failed test")
-            l.append(False)
-        if type(age) == int:
-            print(f"{age}: passed test")
-            l.append(True)
-        else:
-            print(f"{age}: failed test")
-            l.append(False)
-        if type(decimal) == float:
-            print(f"{decimal}: passed test")
-            l.append(True)
-        else:
-            print(f"{decimal}: failed test")
-            l.append(False)
-        out.write(l)
-        out.close()
-    except:
-        pass
+results = []
+
+try:
+    userscript = importlib.import_module('script')
+    assert userscript.var1 == 100, "variable1 should be set as 100"
+    # test passed
+    print("Test passed")
+    results.append(True)
+except:
+    # test failed
+    print("Your test failed", sys.exc_info())
+    results.append(False)
+
+
+# append result to file
+f = open(os.environ.get('UNIT_TEST_OUTPUT_FILE'), "w")
+f.write(json.dumps(results))
+f.close()
   
 
