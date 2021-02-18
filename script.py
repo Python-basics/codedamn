@@ -23,7 +23,7 @@ sys.path.append(os.environ.get('USER_CODE_DIR'))
 results = []
 
 try:
-    userscript = importlib.import_module('script')
+    userscript = importlib.import_module('script2')
     assert userscript.var1 == 100, "variable1 should be set as 100"
     # test passed
     print("Test passed")
