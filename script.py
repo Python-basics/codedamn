@@ -16,7 +16,7 @@
 0   print out like this
 """
 
-x = 10
+x = 10 # DON'T CHANGE VALUE
 
 # count down from 10 to 0, just like the example above
 # fill in the head state with a condition
