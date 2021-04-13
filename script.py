@@ -14,10 +14,3 @@ grades = [81,76,96,93,95,100]
 
 
 
-def main():
-    pass
-
-
-
-if __name__ == "__main__":
-    main()
