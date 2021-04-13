@@ -5,7 +5,7 @@
 """
 
 
-# import the sys module
+# import the math module
 
 
 
