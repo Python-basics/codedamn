@@ -3,12 +3,23 @@
 26)  Indexing
 """
 
+suffix = "op"
 
-odd = "13579"
+prefix = "bmht"
 
-# use indexing to assign the string '5' to the variable five
+# create three variable hop, mop and top
+
+# using suffix and prefix
+
+# eg. create bop
+
+bop = prefix[0] + suffix # creates the string 'bop'
+
+# create hop
 
 
+# create mop
 
-# use indexing to assign the string '1' to the variable one
+
+# create top
 
