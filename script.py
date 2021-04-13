@@ -1,12 +1,22 @@
 
 """
-24)  Custom Function with return
-
+25)  Variables
 """
 
+c = "code"
+
+d = "damn"
 
 
-def total(l):
-    """This function totals the number a students in grade"""
-    sub_ttl = 0     # this is your sub-total starting point
-    
+# create two variables named forward and reverse
+
+# assign forward to c and d in the correct order
+
+
+
+
+
+
+# assign reverse to d and c in reverse order
+
+
