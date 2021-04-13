@@ -5,12 +5,15 @@ iterate through list
 """
 
 grades = [81,76,96,93,95,100]
+threes = []
 
-
-# write a for loop on grade that prints out if they are divisable by 3
+# Finish the if condition to only print grades that are divisible 
 # code below
 
-
+for grade in grades:
+    if :
+        print(grade)
+        threes.append(grade)
 
 
 
