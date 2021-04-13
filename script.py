@@ -3,20 +3,11 @@
 25)  Variables
 """
 
-c = "code"
 
-d = "damn"
+hi = "Hello" 
 
+# create a variable greetings that adds Sam to hi
 
-# create two variables named forward and reverse
-
-# assign forward to c and d in the correct order
-
-
-
-
-
-
-# assign reverse to d and c in reverse order
+# do not forget and space or the quotation marks
 
 
