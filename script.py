@@ -6,7 +6,7 @@
 
 """
 
-grades = [81,76,96,93,95,100]
+grades = [81,76,96,93,95,100] # don't change
 
 
 def divisible_by_3(l):
@@ -14,5 +14,5 @@ def divisible_by_3(l):
     # write code below, use the code from previous lesson 
     : # here
        : # here
-            threes.append(grade)
-    return threes
+            threes.append(grade) # don't change
+    return threes # don't change
