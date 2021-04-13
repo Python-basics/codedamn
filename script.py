@@ -11,18 +11,4 @@ def total(l):
     sub_ttl = 0     # this is your sub-total starting point 
     
 
-def main():
-    try:
-        if total(students) == 261:
-            print(f"""total: passed test
-Total number of students is {total(students)}""")
-        else:
-            print(f"""total: failed test
-got {total(students)}, expected 261""")
-    except:
-        print("OOps, something went wrong. Try again")
-
-
-if __name__ == "__main__":
-    main()
 
