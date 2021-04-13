@@ -5,7 +5,6 @@
 """
 
 
-students = [40,38,24,45,48,32,34]
 
 def total(l):
     """This function totals the number a students in grade"""
