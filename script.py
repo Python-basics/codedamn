@@ -14,16 +14,3 @@ print(f"Hi {name} nice to meet you")
 
 
 
-
-
-
-def main():
-    if len(name) > 0 and name.isalpha():
-        print("name: passed test")
-    else:
-        print("name: failed test\nplease try again")
-
-
-
-if __name__ == "__main__":
-    main()
