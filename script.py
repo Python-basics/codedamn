@@ -1,14 +1,14 @@
 
 """
-25)  Variables
+26)  Indexing
 """
 
 
-hi = "Hello" 
+odd = "13579"
 
-# create a new variable named greetings that adds a string "Sam" to the variable hi
+# use indexing to assign the string '5' to the variable five
 
-# do not forget a space or the quotation marks
-# code below
 
+
+# use indexing to assign the string '1' to the variable one
 
