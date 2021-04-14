@@ -15,11 +15,11 @@ prefix = "bmht"
 
 bop = prefix[0] + suffix # creates the string 'bop'
 
-# create hop
+# create variable hop
 
 
-# create mop
+# create variable mop
 
 
-# create top
+# create variable top
 
