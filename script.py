@@ -1,25 +1,24 @@
 
 """
-26)  Indexing
+27)  Converting
 """
 
-suffix = "op"
+two = '2'
 
-prefix = "bmht"
-
-# create three variable hop, mop and top
-
-# using suffix and prefix
-
-# eg. create bop
-
-bop = prefix[0] + suffix # creates the string 'bop'
-
-# create variable hop
+string = '15628569'
 
 
-# create variable mop
+# create a variable converting strings --> integers
 
+# convert variabe to an integer
+n_2 = 
 
-# create variable top
+# slice out and convert '15' from string to and integer
+n_15 = 
+
+# slice out and convert '62' from string to and integer
+n_62 = 
+
+# slice out and convert '628' from string to and integer
+n_628 = 
 
