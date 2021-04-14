@@ -3,15 +3,10 @@
 27)  Converting
 """
 
-two = '2'
-
 string = '15628569'
 
 
 # create a variable converting strings --> integers
-
-# convert variabe to an integer
-n_2 = 
 
 # slice out and convert '15' from string to and integer
 n_15 = 
