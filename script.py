@@ -1,25 +1,11 @@
 
 """
-29)  Keyword in 
+31)  len function
 """
 
-name = "codedamn"
+x = [5, 7, 0, 8, 6, 3, 2, 1, 4, 9]
 
-example = "863813486"
+# create a variable that uses preforms len on variable x
 
-test_1 = "code"
-
-test_2 = "ded"
-
-# create a variable that checks if test in name
-
-r_2 = 
-
-# create a variable that checks if test_2 is in name
-
-r_3 = 
-
-# create a variable that checks if "38134" is in example
-
-r_4 = 
+count_1 = len(x)
 
