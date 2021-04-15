@@ -7,6 +7,7 @@ name = "codedamn"
 
 test = "c"
 
-# create a r_1 that test in variable test is in variable name
+# create a r_1 that checks if variable test is in variable name
+# eg. sample = "t" in "test"
 
-r_1 = test in name
+r_1 = 
