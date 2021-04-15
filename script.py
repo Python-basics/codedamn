@@ -15,7 +15,9 @@ sample_2 = [9, 5, 6, 2, 13, 17, 1, 19, 3, 0,
 
 sample_3 = "                          "
 
-# create variable count_1 to perform len on sample_1
+# look carefully the order has changed to 3 samples you don't see
+
+# create variable count_1 to perform len on sample_5
 
 count_1 = 
 
@@ -23,6 +25,18 @@ count_1 =
 
 count_2 = 
 
-# create variable count_3 to perform len on sample_3
+# create variable count_3 to perform len on sample_1
 
 count_3 = 
+
+# create variable count_3 to perform len on sample_6
+
+count_4 = 
+
+# create variable count_3 to perform len on sample_3
+
+count_5 = 
+
+# create variable count_3 to perform len on sample_4
+
+count_6 = 
