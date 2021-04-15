@@ -3,8 +3,13 @@
 28)  String Methods
 """
 
-x = "yelling"
+x = "the raven"
 
-# use the upper method to change x to "YELLING"
+y = "YELLING"
 
-yell = 
+# create quiet variable all lower case for y
+
+quiet = 
+# create poem variable where the first letters are capiatalized
+
+poem = 
