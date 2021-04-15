@@ -5,6 +5,6 @@
 
 x = "yelling"
 
-# use the upper method to change x "YELLING"
+# use the upper method to change x to "YELLING"
 
 yell = 
