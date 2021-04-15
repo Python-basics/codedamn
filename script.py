@@ -13,7 +13,7 @@ test_2 = "ded"
 
 # create a variable that checks if test in name
 
-r_2 = test in name
+r_2 = test_1 in name
 
 # create a variable that checks if test_2 is in name
 
