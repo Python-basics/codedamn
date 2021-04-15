@@ -8,6 +8,6 @@ name = "codedamn"
 test = "c"
 
 # create a r_1 that checks if variable test is in variable name
-# eg. sample = "t" in "test"
+# eg. sample = "test" in "test"
 
 r_1 = 
