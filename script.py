@@ -5,8 +5,21 @@
 
 name = "codedamn"
 
-test = "c"
+example = "863813486"
 
-# create a r_1 that test in variable test is in variable name
+test_ = "code"
 
-r_1 = test in name
+test_2 = "ded"
+
+# create a variable that checks if test in name
+
+r_2 = test in name
+
+# create a variable that checks if test_2 is in name
+
+r_3 = test_2 in name
+
+# create a variable that checks if "38134" is in example
+
+r_4 = "38134" in example
+
