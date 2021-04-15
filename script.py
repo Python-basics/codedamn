@@ -12,7 +12,9 @@ d = "damn"
 
 # assign variabe forward to c and d in the correct order
 
+forward = 
 
 
 # assign variable reverse to d and c in reverse order
 
+reverse = 
