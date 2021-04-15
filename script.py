@@ -17,9 +17,12 @@ bop = prefix[0] + suffix # creates the string 'bop'
 
 # create variable hop
 
+hop = 
 
 # create variable mop
 
+mop = 
 
 # create variable top
 
+top = 
