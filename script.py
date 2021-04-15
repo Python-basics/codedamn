@@ -3,14 +3,20 @@
 28)  String Methods
 """
 
-x = "the raven"
+x = "samuel"
 
-y = "YELLING"
+y = "the great gatsby"
 
-# create quiet variable using lower case for y
+quiet = "yelling"
 
-quiet = 
+# create a new variable where the first letter is capitalized
 
-# create poem variable where the first letters are capiatalized
+name = 
 
-poem = 
+# create a new variable where the first letter of each word is capitalized
+
+movie = 
+
+# create a variable where all letters are upper case
+
+yell = 
