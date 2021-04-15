@@ -7,7 +7,7 @@ name = "codedamn"
 
 example = "863813486"
 
-test_ = "code"
+test_1 = "code"
 
 test_2 = "ded"
 
