@@ -1,22 +1,12 @@
 
 """
-28)  String Methods
+29)  Keyword in 
 """
 
-x = "samuel"
+name = "codedamn"
 
-y = "the great gatsby"
+test = "c"
 
-quiet = "yelling"
+# create a r_1 that test in variable test is in variable name
 
-# create a new variable where the first letter x is capitalized
-
-name = 
-
-# create a new variable where the first letter of each word y is capitalized
-
-movie = 
-
-# create a variable where all letters of quiet are upper case  
-
-yell = 
+r_1 = test in name
