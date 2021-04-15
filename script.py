@@ -13,13 +13,13 @@ test_2 = "ded"
 
 # create a variable that checks if test in name
 
-r_2 = test_1 in name
+r_2 = 
 
 # create a variable that checks if test_2 is in name
 
-r_3 = test_2 in name
+r_3 = 
 
 # create a variable that checks if "38134" is in example
 
-r_4 = "38134" in example
+r_4 = 
 
