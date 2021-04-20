@@ -11,7 +11,7 @@ test_1 = "code"
 
 test_2 = "ded"
 
-# create a variable that checks if test in name
+# create a variable that checks if test_1 in name
 
 r_2 = 
 
