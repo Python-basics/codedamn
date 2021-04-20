@@ -5,6 +5,8 @@
 
 name = "codedamn"
 
+language = "python"
+
 example = "863813486"
 
 test_1 = "code"
