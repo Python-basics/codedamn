@@ -19,7 +19,7 @@
 x = 10 # DON'T CHANGE VALUE
 
 # count down from 10 to 0, just like the example above
-# fill in the head state with a condition
+# fill in the header with a condition
 # fill in the body, you need two lines one to change value
 # and eon to print
 
