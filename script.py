@@ -16,7 +16,7 @@
 1
 Blastoff!!!!
 '''
-
+# only print Blastoff!!!! 1 time, watch your indentation
 count = 10
 
 for i in range(10):
