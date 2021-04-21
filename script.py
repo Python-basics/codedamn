@@ -2,22 +2,15 @@
 """
 32)  for loops
 """
+x = 0
+y = 0
 
-'''
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-Blastoff!!!!
-'''
-# only print Blastoff!!!! 1 time, watch your indentation
-count = 10
+for i in range(3):
+    print(x)
+    x += 1
+    for j in range(3):
+        print(y)
+        y += 1
 
-for i in range(10):
-    # print count then decrement below watch you order
+print(x)
+print(y)
