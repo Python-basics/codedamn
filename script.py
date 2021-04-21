@@ -10,6 +10,12 @@ sample_2 = [9, 5, 6, 2, 13, 17, 1, 19, 3, 0,
 
 sample_3 = "                          "
 
+sample_4 = ''
+
+sample_5 = '              '
+
+sample_6 = '                                                                  '
+
 # look carefully the order has changed to 3 samples you don't see
 
 # create variable count_1 to perform len on sample_5
