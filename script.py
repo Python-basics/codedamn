@@ -29,14 +29,14 @@ count_2 =
 
 count_3 = 
 
-# create variable count_3 to perform len on sample_6
+# create variable count_4 to perform len on sample_6
 
 count_4 = 
 
-# create variable count_3 to perform len on sample_3
+# create variable count_5 to perform len on sample_3
 
 count_5 = 
 
-# create variable count_3 to perform len on sample_4
+# create variable count_6 to perform len on sample_4
 
 count_6 = 
