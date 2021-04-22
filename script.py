@@ -1,7 +1,8 @@
 
 """
-36)  elif
+38)  Funtion
 """
-def number(x):
-    """number take a variable return it Zero, Positive or Negative"""
-    # write code below
+def area(length,width):
+    """Returns the area of a rectangle"""
+    return length * width
+
