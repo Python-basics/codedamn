@@ -9,9 +9,9 @@ y = 0
 # increment y in the nested(seccond) for loop
 
 for i in range(3):
-    # increment x below
+    # increment x by 1 below
     for j in range(3):
-       # in crement y below
+       # increment y by 1 below
 
 print(x)
 print(y)
