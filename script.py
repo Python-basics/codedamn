@@ -1,13 +1,14 @@
 
 """
-35)  Booleans
+36)  while loop
 """
 
-# assign variable boolean_1 to the True numberical value
+count = 10
 
-boolean_1 = 
-
-# assign variable boolean_2 to the False numberical value
-
-boolean_2 = 
+# use decementaion to count down
+while count > 0:
+    print(count)
+    count -= 1
+    
+print("Ready or not here I come")
 
