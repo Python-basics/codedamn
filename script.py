@@ -1,19 +1,13 @@
 
 """
-34)  swapping variable 
+35)  Booleans
 """
 
-a = "code"
+# assign variable boolean_1 to the True numberical value
 
-b = "damn"
+boolean_1 = 1
 
-c = "codedamn"
+# assign variable boolean_2 to the False numberical value
 
-# swap a and c
-
-
-# swap c and b
-
-
-# swap a and b
+boolean_2 = 0
 
