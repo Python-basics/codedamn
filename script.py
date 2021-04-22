@@ -2,7 +2,8 @@
 """
 38)  Funtion
 """
-def area(length,width):
+def area(): # don't forget 2 arguments(variables)
     """Returns the area of a rectangle"""
-    return length * width
+    # code your return code below
+
 
