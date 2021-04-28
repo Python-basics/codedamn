@@ -1,7 +1,7 @@
 
 
 """
-7) syntax/variable rules
+syntax/variable rules
 """
 
 # fix what's wrong
