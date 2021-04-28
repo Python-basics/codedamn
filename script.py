@@ -1,13 +1,10 @@
 
 """
-11) function and docstring
-
-
+function and docstring
 """
 
 # create a function goodbye that prints out "goodbye"
 # and has a docstring
-
 
 
 
