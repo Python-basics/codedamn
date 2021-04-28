@@ -1,6 +1,6 @@
 
 """
-3) operators
+operators
 """
 
 x = 2
