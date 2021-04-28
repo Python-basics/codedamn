@@ -11,8 +11,3 @@ function and docstring
 def main():
     goodbye()
 
-
-
-if __name__ == "__main__":
-    main()
-
