@@ -1,6 +1,6 @@
 
 """
-4) Index and Slicing
+Index and Slicing
 """
 
 word = "CatMat"
