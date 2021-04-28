@@ -1,4 +1,4 @@
-"""2) variables types
+"""variables types
 three type assignment"""
 
 
