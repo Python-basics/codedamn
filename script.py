@@ -1,17 +1,10 @@
 
 """
-41 list extend method
+42 list append method
 """
 
 
 l_1 = [2,3,1]
 
 l_2 = ["Sam", "Tom", "Matt"]
-
-# extend l_2 by l_1
-
-
-
-# extend l_1 by l_1
-
 
