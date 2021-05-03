@@ -13,13 +13,13 @@ l_3 =
 
 # find the length of l_2
 
-Length_1 = 
+length_1 = 
 
 # find the length of l_3
 
-Length_2 =  
+length_2 =  
 
 # find the length of l_1
 
-Length_3 = 
+length_3 = 
 
