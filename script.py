@@ -16,13 +16,13 @@ index_1 =
 
 # find index of 9 in l_1
 
-index_1 = 
+index_2 = 
 
 # find index of 1 in l_2
 
-index_1 = 
+index_3 = 
 
 # find index of 19 in l_2
 
-index_1 = 
+index_4 = 
 
