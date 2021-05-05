@@ -1,6 +1,6 @@
 
 """
-44 list pop method
+45 list insert method 
 """
 
 
@@ -10,7 +10,7 @@ l_1 = [17, 6, 10, 15, 7, 4, 8, 18, 12, 3,
 l_2 = [9, 0, 12, 10, 15, 16, 5, 7, 8, 13,
        19, 6, 11, 18, 17, 1, 14, 4, 3, 2]
 
-# use pop to popout last index of l_1
+# use insert  to popout last index of l_1
 
 
 
@@ -23,6 +23,4 @@ l_2 = [9, 0, 12, 10, 15, 16, 5, 7, 8, 13,
 
 
 # use pop to popout and create assign of value from index 9 of l_2
-
-assign = 
 
