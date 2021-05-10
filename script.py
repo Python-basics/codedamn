@@ -17,13 +17,13 @@ remove_1 =
 
 # count 'a' in l_2
 
-remove_1 = 
+remove_2 = 
 
 # count 'e' in l_2
 
-remove_1 = 
+remove_3 = 
 
 # count 'i' in l_2
 
-remove_1 = 
+remove_4 = 
 
