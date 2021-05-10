@@ -1,6 +1,6 @@
 
 """
-47 list count method
+48 list remove method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
@@ -13,20 +13,17 @@ l_2 =  ['u', 'i', 'i', 'a', 'o',
 
 # count 'e' in l_1
 
-count_1 = 
+remove_1 = 
 
 # count 'a' in l_2
 
-count_2 = 
+remove_1 = 
 
 # count 'e' in l_2
 
-count_3 = 
+remove_1 = 
 
 # count 'i' in l_2
 
-count_4 = 
+remove_1 = 
 
-# count 'u' in l_1
-
-count_5 = 
