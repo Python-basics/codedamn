@@ -1,26 +1,22 @@
 
 """
-52 change list with indexing
+53 wrap a string with list
 """
 
-l_1 = ['o', 'u', 'o', 'a', 'u', 
-       'i', 'o', 'e', 'u', 'o', 
-       'u', 'a', 'u', 'i', 'a']
+name = "Sam"
 
-l_2 =  ['u', 'i', 'i', 'a', 'o', 
-        'u', 'i', 'i', 'u', 'e',
-        'e', 'e', 'i', 'a', 'u']
+city = "New York"
 
-# change index 4 of l_2 to 'fish'
+planet = "Earth"
 
+# create list from planet
 
+l_1 = 
 
-# change index 10 of l_1 to 'Sam'
+# create list from name
 
+l_2 = 
 
+# create list from city
 
-# change index 9 of l_2 to 'food'
-
-
-
-# change index 12 of l_1 to 'cat'
+l_3 = 
