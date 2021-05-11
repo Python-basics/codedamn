@@ -11,19 +11,19 @@ l_2 =  ['u', 'i', 'i', 'a', 'o',
         'u', 'i', 'i', 'u', 'e',
         'e', 'e', 'i', 'a', 'u']
 
-# count 'e' in l_1
+# remove 'e' in l_1
 
-remove_1 = 
 
-# count 'a' in l_2
 
-remove_2 = 
+# remove 'a' in l_2
 
-# count 'e' in l_2
 
-remove_3 = 
 
-# count 'i' in l_2
+# remove 'e' in l_2
 
-remove_4 = 
+
+
+# remove 'i' in l_2
+
+
 
