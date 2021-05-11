@@ -12,6 +12,7 @@ l_1 =
 # remove index 9 from l_1
 
 
-# create list from city
 
+# what index is i in l_1
 
+index = 
