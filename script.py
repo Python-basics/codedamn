@@ -1,22 +1,17 @@
 
 """
-53 wrap a string with list
+54 List Project
 """
 
-name = "Sam"
+letters = "kjasvghougihouoguwysdgngucj"
 
-city = "New York"
-
-planet = "Earth"
-
-# create list from planet
+# create list from letters
 
 l_1 = 
 
-# create list from name
+# remove index 9 from l_1
 
-l_2 = 
 
 # create list from city
 
-l_3 = 
+
