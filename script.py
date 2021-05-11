@@ -1,6 +1,6 @@
 
 """
-51 list copy method
+52 change list with indexing
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
