@@ -11,11 +11,16 @@ l_2 =  ['u', 'i', 'i', 'a', 'o',
         'u', 'i', 'i', 'u', 'e',
         'e', 'e', 'i', 'a', 'u']
 
-# create a copy l_2
+# change index 4 of l_2 to 'fish'
 
-l_3 = 
 
-# create a copy l_1
 
-l_4 = 
+# change index 10 of l_1 to 'Sam'
 
+
+
+# change index 9 of l_2 to 'food'
+
+
+
+# change index 12 of l_1 to 'cat'
