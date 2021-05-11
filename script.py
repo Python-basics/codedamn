@@ -9,7 +9,7 @@ letters = "kjasvghougihouoguwysdgngucj"
 
 l_1 = 
 
-# remove index 9 from l_1
+# remove g from l_1
 
 
 
