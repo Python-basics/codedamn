@@ -1,6 +1,6 @@
 
 """
-51 list copy method
+50 list clear method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
@@ -11,11 +11,11 @@ l_2 =  ['u', 'i', 'i', 'a', 'o',
         'u', 'i', 'i', 'u', 'e',
         'e', 'e', 'i', 'a', 'u']
 
-# create a copy l_2
+# clear l_2
 
-l_3 = 
 
-# create a copy l_1
 
-l_4 = 
+# clear l_1
+
+
 
