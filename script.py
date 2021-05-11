@@ -1,6 +1,6 @@
 
 """
-49 list reverse method
+50 list clear method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
@@ -11,11 +11,11 @@ l_2 =  ['u', 'i', 'i', 'a', 'o',
         'u', 'i', 'i', 'u', 'e',
         'e', 'e', 'i', 'a', 'u']
 
-# reverse l_2
+# clear l_2
 
 
 
-# reverse l_1
+# clear l_1
 
 
 
