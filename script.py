@@ -2,8 +2,6 @@
 if / else
 """
 
-# write an if / else if z is equal to 8
-
 x = 11
 y = 12
 z = 8   
