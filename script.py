@@ -1,6 +1,6 @@
 
 """
-18) for loop
+for loop
 iterate through list
 """
 
