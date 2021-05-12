@@ -1,7 +1,6 @@
 
 """
-21) slicing with step
-
+slicing with step
 
 """
 
