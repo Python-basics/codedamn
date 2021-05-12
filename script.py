@@ -1,7 +1,7 @@
 
 
 """
-15) while loop
+while loop
 
 10
 9
