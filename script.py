@@ -1,7 +1,6 @@
 
 """
-17) modulo operator
-
+modulo operator
 
 eg. r_1 = 3 % 2 # to assign a remainder of 1
 """
