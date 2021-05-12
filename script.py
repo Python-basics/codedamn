@@ -1,6 +1,6 @@
 
 """
-22) input function
+input function
 
 """
 
