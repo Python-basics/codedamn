@@ -1,8 +1,7 @@
 
 
 """
-19) wrap previous for loop in function
-
+wrap previous for loop in function
 
 """
 
