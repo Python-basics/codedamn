@@ -1,6 +1,6 @@
 
 """
-44 list pop method
+List pop method
 """
 
 
