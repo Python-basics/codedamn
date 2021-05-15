@@ -1,6 +1,6 @@
 
 """
-47 list count method
+List count method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
