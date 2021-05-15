@@ -1,6 +1,6 @@
 
 """
-26)  Indexing
+Indexing
 """
 
 
