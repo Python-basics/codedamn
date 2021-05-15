@@ -1,6 +1,6 @@
 
 """
-46 list sort method 
+List sort method 
 """
 
 l_1 = [17, 6, 10, 8, 18, 12, 3,
