@@ -1,6 +1,6 @@
 
 """
-51 list copy method
+List copy method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
