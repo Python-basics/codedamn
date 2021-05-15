@@ -1,6 +1,6 @@
 
 """
-49 list reverse method
+List reverse method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
@@ -16,6 +16,5 @@ l_2 =  ['u', 'i', 'i', 'a', 'o',
 
 
 # reverse l_1
-
 
 
