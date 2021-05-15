@@ -1,6 +1,6 @@
 
 """
-29)  Keyword in 
+Keyword in 
 """
 
 name = "codedamn"
@@ -8,6 +8,6 @@ name = "codedamn"
 test = "c"
 
 # create a r_1 that checks if variable test is in variable name
-# eg. sample = "test" in "test"
+# eg. sample = "t" in "test"
 
 r_1 = 
