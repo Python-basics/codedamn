@@ -1,6 +1,6 @@
 
 """
-40 working with lists
+Working with lists
 """
 
 l_1 = [2,3,1]
