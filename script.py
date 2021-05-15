@@ -1,7 +1,6 @@
 
 """
-24)  Custom Function with return
-
+Custom Function with return
 """
 
 
