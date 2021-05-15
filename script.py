@@ -1,6 +1,6 @@
 
 """
-34)  swapping variable 
+swapping variable 
 """
 
 a = "code"
