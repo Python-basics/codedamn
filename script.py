@@ -1,6 +1,6 @@
 
 """
-48 list remove method
+List remove method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
