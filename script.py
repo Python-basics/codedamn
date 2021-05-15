@@ -1,6 +1,6 @@
 
 """
-27)  Converting
+Converting
 """
 
 string = '15628569'
