@@ -1,6 +1,6 @@
 
 """
-31)  len function
+len function
 """
 
 sample_1 = "lanfgkjnbiovjnwo"
