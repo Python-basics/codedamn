@@ -1,6 +1,6 @@
 
 """
-50 list clear method
+List clear method
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
