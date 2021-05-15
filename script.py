@@ -1,6 +1,6 @@
 
 """
-35)  Booleans
+Booleans
 """
 
 # assign variable boolean_1 to the True numberical value
