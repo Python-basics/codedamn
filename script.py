@@ -1,6 +1,6 @@
 
 """
-25)  Variables
+Variables
 """
 
 
