@@ -1,6 +1,6 @@
 
 """
-32)  for loops
+for loops
 """
 
 '''
