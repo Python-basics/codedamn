@@ -1,6 +1,6 @@
 
 """
-42 list append method
+List append method
 """
 
 
