@@ -1,6 +1,6 @@
 
 """
-47 list count method
+List count method
 """
 
 l_1 = [17, 6, 1, 8, 1, 12, 3,
