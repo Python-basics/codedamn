@@ -1,7 +1,7 @@
 
 """
-36)  elif
+elif
 """
 def number(x):
-    """number take a variable return it Zero, Positive or Negative"""
+    """number take a variable return if Zero, Positive or Negative"""
     # write code below
