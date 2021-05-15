@@ -1,6 +1,6 @@
 
 """
-28)  String Methods
+String Methods
 """
 
 x = "the raven"
