@@ -1,6 +1,6 @@
 
 """
-38)  Funtion
+Custom Funtions
 """
 def area(): # don't forget 2 arguments(variables)
     """Returns the area of a rectangle"""
