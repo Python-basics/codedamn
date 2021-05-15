@@ -1,6 +1,6 @@
 
 """
-45 list insert method 
+List insert method 
 """
 
 
