@@ -1,6 +1,6 @@
 
 """
-52 change list with indexing
+Changing lists with indexing
 """
 
 l_1 = ['o', 'u', 'o', 'a', 'u', 
