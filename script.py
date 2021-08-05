@@ -11,6 +11,6 @@ y = "YELLING"
 
 quiet = 
 
-# create poem variable where the first letters are capiatalized
+# create poem variable where the first letters of vairable x are capiatalized
 
 poem = 
