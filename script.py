@@ -6,7 +6,7 @@ Create 3 dicionaries
 """
 
 
-# Create an empty dictionary with variable name d
+# Create an empty dictionary with variable name d_1
 
 
 
