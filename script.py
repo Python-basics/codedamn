@@ -15,7 +15,7 @@ Create 3 dicionaries
 
 
 # Create a dictionary with variable name d_3 
-# with keys [x,y,z,a,b] and values [25,56,1,2,5]
+# with keys ['x','y','z','a','b'] and values [25,56,1,2,5]
 
 
 
