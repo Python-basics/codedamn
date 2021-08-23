@@ -19,7 +19,7 @@ value_1 =
 
 value_2 = 
 
-# Use get method to find value for key 1 in d_3
+# Use get method to find value for key 2 in d_3
 
 value_3 = 
 
