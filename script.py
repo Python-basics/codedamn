@@ -3,19 +3,15 @@
 Dictionaries Keys Method
 """
 
-x = [0, 1, 2, 3, 4]
-y = "xyz"
+d_1 = {0: None, 1: None, 2: None, 3: None, 4: None}
+d_2 = {'fish': 0, 'dog': 0, 'cat': 0, 'wolf': 0}
 
 
+# what are the keys from d_2
 
-# Create a dictionary from x with default value
+key_1 
 
+# what are the keys from d_1
 
-# Create a dictionary from y with default value
-
-
-# Create a dictionary from x with vaules of 0
-
-
-
+key_2 
 
