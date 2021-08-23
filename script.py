@@ -1,8 +1,6 @@
 
 """
-Dictionaries fromkeys Method
-Creating dictionaries from iterables
-
+Dictionaries Keys Method
 """
 
 x = [0, 1, 2, 3, 4]
