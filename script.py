@@ -1,17 +1,25 @@
 
 """
-Dictionaries Keys Method
+Dictionaries Get Method
 """
 
-d_1 = {0: None, 1: None, 2: None, 3: None, 4: None}
-d_2 = {'fish': 0, 'dog': 0, 'cat': 0, 'wolf': 0}
+d_1 = {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3}
 
+d_2 = {'w': 0, 'x': 1, 'v': 2, 'y': 3}
 
-# what are the keys from d_2
+d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
+      1: {'w': 0, 'x': 1, 'v': 2, 'y': 3},
+      2: {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'}}
 
-key_1 
+# Use get method to find value for key "v" in d_2
 
-# what are the keys from d_1
+value_1 = 
 
-key_2 
+# Use get method to find value for key "wolf" in d_1
+
+value_2 = 
+
+# Use get method to find value for key "v" in d_2
+
+value_3 = 
 
