@@ -9,7 +9,6 @@ x = [0, 1, 2, 3, 4]
 y = "xyz"
 
 
-
 # Create a dictionary from x with default value
 
 
