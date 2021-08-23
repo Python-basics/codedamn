@@ -1,6 +1,6 @@
 
 """
-Dictionaries Secondary Get Method
+Dictionaries Values Method
 """
 
 d_1 = {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3}
