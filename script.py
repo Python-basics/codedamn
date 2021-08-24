@@ -19,7 +19,7 @@ values =
 
 keys = 
 
-# Use get method to find the items from value
+# Use get method to find the items from values
 
 items = 
 
