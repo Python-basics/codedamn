@@ -19,7 +19,7 @@ values =
 
 keys = 
 
-# Use get method to find the items from values
+# Use get method to find the items from d_2
 
 items = 
 
