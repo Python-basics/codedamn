@@ -11,15 +11,15 @@ d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
       1: {'w': 0, 'x': 1, 'v': 2, 'y': 3},
       2: {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'}}
 
-# Use get method to find the values from d_1
-
-value_1 = 
-
 # Use get method to find the values from d_3
 
-value_2 = 
+values = 
 
-# Use get method to find the values from d_2
+# Use get method to find the keys from d_1
 
-value_3 = 
+keys = 
+
+# Use get method to find the items from value
+
+items = 
 
