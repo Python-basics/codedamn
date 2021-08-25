@@ -1,6 +1,7 @@
 
 """
-Dictionaries Values Method
+Dictionaries Membership
+
 """
 
 d_1 = {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3}
@@ -11,15 +12,20 @@ d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
       1: {'w': 0, 'x': 1, 'v': 2, 'y': 3},
       2: {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'}}
 
-# Use get method to find the values from d_3
+# Is "fish" a member of d_1
 
-values = 
+# eg. member_0 = "fish" in d_1
 
-# Use get method to find the keys from d_1
 
-keys = 
+# Is "v" a member of d_2
 
-# Use get method to find the items from d_2
+Member_1 = 
 
-items = 
+# Is "dog" a member of d_2
+
+Member_2 = 
+
+# Is "fish" a member of d_3[0]
+
+Member_3  = 
 
