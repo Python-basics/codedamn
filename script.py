@@ -12,14 +12,14 @@ d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
       1: {'w': 0, 'x': 1, 'v': 2, 'y': 3},
       2: {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'}}
 
-# pass key "w" into pop for d_2
-pop_1 = 
+# pop
+item_1 = 
 
 # pass key "cat" into pop for d_1
-pop_2 = 
+item_2 = 
 
 # --Warning different-- return 
 # value {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'} from d_3
-pop_3 = 
+item_3 = 
 
 
