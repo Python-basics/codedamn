@@ -12,13 +12,12 @@ d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
       1: {'w': 0, 'x': 1, 'v': 2, 'y': 3},
       2: {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'}}
 
-# Use setdefault on key "bear" on d_1 with default value
+# Use update on key "dog" on d_1 value 15
 
 
-# Use setdefault on key "pig" on d_1 with value 0
+# Use update on key "dog" on d_3[0] value 99
 
 
-# --Warning different--
-# return value_3 Use setdefault on key "wolf" on d_1 with value 5
+# Use update on key "x" on d_2 value 111
 
 
