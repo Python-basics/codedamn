@@ -15,7 +15,7 @@ d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
 # Use update on key "dog" on d_1 value 15
 
 
-# Use update on key "dog" on d_3[0] value 99
+# Use update on key "cat" on d_3[0] value 99
 
 
 # Use update on key "x" on d_2 value 111
