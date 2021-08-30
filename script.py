@@ -1,6 +1,6 @@
 
 """
-Dictionaries Pop Method
+Dictionaries Popitme Method
 
 """
 
