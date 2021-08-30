@@ -14,6 +14,6 @@ d_1 = {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3}
 
 
 # --Warning different--
-# return value_1 Use setdefault on key "wolf" on d_1 with value 5
+# return value_3 Use setdefault on key "wolf" on d_1 with value 5
 
 
