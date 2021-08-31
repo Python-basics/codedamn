@@ -1,24 +1,15 @@
 
 """
-Dictionaries Copy Method
+Dictionaries Incrementing Dictionary Values
 
 """
 
 d_1 = {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3}
 
-d_2 = {'w': 0, 'x': 1, 'v': 2, 'y': 3}
+d_2 = {'fish': 5, 'dog': 3, 'cat': 5, 'wolf': 1}
 
-d_3 = {0: {'fish': 0, 'dog': 1, 'cat': 2, 'wolf': 3},
-      1: {'w': 0, 'x': 1, 'v': 2, 'y': 3},
-      2: {'w': 'fish', 'x': 'dog', 'v': 'cat', 'y': 'wolf'}}
+# loop through d_1 and add values from d_2 to d_1's values
+# d_1['wolf'] value would be 4
 
-# Assign a variable copy_1 from a copy of d_2
-
-
-# Assign a variable copy_2 from a copy of d_3
-
-
-# Assign a variable copy_3 from a copy of d_1
-
-
+# code below
 
