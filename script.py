@@ -17,6 +17,6 @@ d_2 = {'w': 0, 'x': 1, 'v': 2, 'y': 3}
 
 
 
-# Use update to change key "fish" value to 55  in d_1
+# Use update to change key "fish" value to 13 in d_1
 
 
