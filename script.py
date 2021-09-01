@@ -5,12 +5,12 @@ String Membership
 
 words = ["kghs", "ajljbhsha","alshlhnalhb","oyhkljhalhhshiuhu"]
 
-check = "hs"
+check = ["hs","jbs","lhnsl","hkkhalhh"]
 
 answers = []
 
-# iterate through words and check if test is a member
-# append result to list ansers
+# test each member of list check in list words
+# hint use a nested for loop
 
 # code below
 
