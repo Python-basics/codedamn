@@ -14,6 +14,7 @@ index_1 =
 index_2 = 
 
 # Find the index the second index of 'a' in string letters
+# hint you'll need a starting point
 
 index_3 = 
 
