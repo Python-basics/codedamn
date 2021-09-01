@@ -6,7 +6,7 @@ String Assignment
 
 words = ["kghs", "ajljbhsha","alshlhnalhb","oyhkljhalhhshiuhu"]
 
-test = "hs"
+check = "hs"
 
 answers = []
 
