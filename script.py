@@ -5,7 +5,7 @@ String Membership
 
 words = ["kghs", "ajljbhsha","oyhkljhalhhshiuhu"]
 
-checks = ["hs","jbs","hkkhalhh"]
+checks = ["hs","jbhs","khljh"]
 
 answers = []
 
