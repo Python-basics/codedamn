@@ -1,7 +1,6 @@
 
 """
-String Assignment
-
+String Membership
 """
 
 words = ["kghs", "ajljbhsha","alshlhnalhb","oyhkljhalhhshiuhu"]
