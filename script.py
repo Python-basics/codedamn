@@ -4,12 +4,9 @@ String Assignment
 
 """
 
-# assign string "happy" to s_1
+names = ["Sam", "Paul", "John", "Matt"]
 
+greeting = "Hello, nice to meet you, "
 
-# assign string "running" to s_2
-
-
-# assign string "jumping" to s_3
-
+d = {}
 
