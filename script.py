@@ -3,9 +3,9 @@
 String Membership
 """
 
-words = ["kghs", "ajljbhsha","alshlhnalhb","oyhkljhalhhshiuhu"]
+words = ["kghs", "ajljbhsha","oyhkljhalhhshiuhu"]
 
-check = ["hs","jbs","lhnsl","hkkhalhh"]
+check = ["hs","jbs","hkkhalhh"]
 
 answers = []
 
