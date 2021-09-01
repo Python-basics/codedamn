@@ -9,10 +9,11 @@ checks = ["hs","jbs","hkkhalhh"]
 
 answers = []
 
-# test each member of list check in list words
+# test each member of list check for memberbship 
+# in each member of list words
 # hint use a nested for loop
 
-# code below
+# code below outer loop checks
 
 
 
