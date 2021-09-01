@@ -4,17 +4,14 @@ String Assignment
 
 """
 
-names = ["Sam", "Paul", "John", "Matt"]
+words = ["kghs", "ajljbhsha","alshlhnalhb","oyhkljhalhhshiuhu"]
 
-greeting = "Hello, nice to meet you, "
+test = "hs"
 
-# sort dictionary names 
+answers = []
 
-
-# iterate through names cancatenate each name to greeting
-# append it list greetings
-
-greetings = []
+# iterate through words and check if test is a member
+# append result to list ansers
 
 # code below
 
