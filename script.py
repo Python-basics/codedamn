@@ -3,7 +3,7 @@
 String Count 
 """
 
-letters = 'abdftgrtaftb'
+letters = 'abdafatgrbtaftb'
 
 # Find the count of sub-string 'a' in string letters
 
