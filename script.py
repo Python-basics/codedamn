@@ -1,20 +1,13 @@
 
 """
-String Count 
+String Sub-string function 
 """
+# write a function that returns a list of the index locations
+# of a sub-string. ***Remember index method returns an error if
+# the sub_string isn't present. So, you need to use the count to 
+# move through and count the occerances first **** You'll do great!!!
 
-letters = 'abdafatgrbtaftb'
-
-# Find the count of sub-string 'a' in string letters
-
-count_1 = 
-
-# Find the count of sub-string 'b' in string letters
-
-count_2 = 
-
-# Find the count of sub-string 'ft' in string letters
-
-count_3 = 
+def index_all(letters):
+  # code below
 
 
