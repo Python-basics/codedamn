@@ -7,6 +7,8 @@ String Sub-string function
 # the sub_string isn't present. So, you need to use the count to 
 # move through and count the occerances first **** You'll do great!!!
 
+# assume there is atleast one occerance of sub-string
+
 def index_all(letters,sub):
   # code below
 
