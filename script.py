@@ -1,7 +1,13 @@
 
 """
-String Index
+String Indexing Custom Function
 """
+
+
+# 
+
+
+
 
 letters = 'abdfgrtafb'
 
