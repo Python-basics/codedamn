@@ -1,18 +1,19 @@
 
 """
-String Sub-string function 
+String find method
 """
-# write a function that returns a list of the index locations
-# of a sub-string. ***Remember index method returns an error if
-# the sub_string isn't present. So, you need to use the count to 
-# move through and count the occerances first **** You'll do great!!!
 
-# assume there is atleast one occerance of sub-string
+letters = "ghilfsovlpsf"
 
-def index_all(letters,sub):
-  # code below
+# 
+
+find_1 = 
+
+  
+find_2 = 
 
 
-
+find_3 =
+  
   
   
