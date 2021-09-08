@@ -1,11 +1,11 @@
 
 """
-String Endwith 
+String Convert to Past Tense 
 """
 
-# Create a function that checks if a string ends in "ed"
-# return True or False
+# Create a function to change to past tense 
+# as needed
 
-def Ends_ed(word):
+def Past_tense(word):
     
 
