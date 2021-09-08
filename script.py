@@ -2,11 +2,16 @@
 """
 String find function
 """
-# using to find method to create a function that
-# returns index location if sub-string is present
-# or returns "not here" if sub-string is not present
+# Split the Strings
 
+sen_1 = "Hello, it's nice to meet you!"
 
-def location(letters,sub):
-   
+splt_1 = 
 
+sen_2 = "apples,bananas,grapes,orange"
+
+splt_2 = 
+
+sen_3 = "Here_you_go!!"
+
+splt_3 = 
