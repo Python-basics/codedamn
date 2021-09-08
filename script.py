@@ -1,21 +1,12 @@
 
 """
-String find method
+String find function
 """
+# using to find method to create a function that
+# returns index location if sub-string is present
+# or returns "not here" if sub-string is not present
 
-letters = "ghilfsovlpsf"
 
-# use a find "lfs" in letters
+def location(letters,sub):
+   
 
-find_1 = 
-
-# use a find "sov" in letters
-  
-find_2 = 
-
-# use a find "pp" in letters
-
-find_3 =
-  
-  
-  
