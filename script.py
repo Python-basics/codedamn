@@ -1,11 +1,11 @@
 
 """
-String Convert to Past Tense 
+String Begins With a Vowel
 """
 
-# Create a function to change to past tense 
-# as needed
+# Create a function to check if a 
+# word start with a vowel
 
-def Past_tense(word):
+def Starts_with_Vowel(word):
     
 
