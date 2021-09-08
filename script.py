@@ -1,17 +1,23 @@
 
 """
-String find function
+String Join Method
 """
-# Split the Strings
 
-sen_1 = "Hello, it's nice to meet you!"
+# concatinate the list below
 
-splt_1 = 
+l_1 = ["Hi", "I'm","Sam"]
 
-sen_2 = "apples,bananas,grapes,orange"
+concat_1 = 
 
-splt_2 = 
+# create this "8*9*3*5*1*0"
 
-sen_3 = "Here_you_go!!"
+l_2 = ['8', '9', '3', '5', '1', '0']
 
-splt_3 = 
+concat_2 = 
+
+# create this "this_is_what_I_have"
+
+l_3 = ['this', 'is', 'what', 'I', 'have']
+
+concat_3 = 
+
