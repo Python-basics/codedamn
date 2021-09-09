@@ -3,7 +3,7 @@
 String Replace Spaces
 """
 
-sen = "this is my sentance that I have
+sen = "this is my sentance that I have"
 
 # Replace all spaces with "_"
 
