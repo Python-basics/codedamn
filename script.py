@@ -1,12 +1,11 @@
 
 """
-String Begins With a Vowel
-"""
+String Replace Spaces
 
-# Create a function to check if a 
-# word start with a vowel
-# return True or False
+sen = "this is my sentance that I have
 
-def Starts_with_Vowel(word):
-    
+# Replace all spaces with "_"
+
+test
+
 
