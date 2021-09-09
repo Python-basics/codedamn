@@ -1,6 +1,6 @@
 
 """
-String Replace Spaces
+String Strip 
 """
 
 sen = "this is my sentance that I have"
