@@ -1,12 +1,15 @@
 
 """
-String Begins With a Vowel
+String Startswith Function
 """
 
-# Create a function to check if a 
-# word start with a vowel
-# return True or False
+# Create a function that take 2 list as arguments
+# prefixes and words return a list if the word 
+# in words list containes either of the prefixes
+# hint use nested loops
 
-def Starts_with_Vowel(word):
+def either(prefixes,words):
     
+
+
 
