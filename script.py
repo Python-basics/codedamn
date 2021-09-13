@@ -3,10 +3,11 @@
 String Is Lower 
 """
 
-sen = "  Movies  Tonight   "
+sen = "Good morning Paul, did you see John?"
 
-# Strip variable sen
+# Find the lower case word in variable sen
 
-strp  = 
+def lower():
+    
 
 
