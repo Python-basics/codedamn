@@ -1,12 +1,13 @@
 
 """
-String Is Digit 
+String Isdigit Method
 """
 
-sen = "  Movies  Tonight   "
+# Create a functions returns a list
+# only numbers from a sentence.
 
-# Strip variable sen
-
-strp  = 
-
-
+def only_numbers(sentence):
+    
+    
+    
+    
