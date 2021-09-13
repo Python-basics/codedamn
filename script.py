@@ -3,12 +3,10 @@
 String Strip 
 """
 
-sen = "this is my sentance that I have"
+sen = "  Movies  Tonight   "
 
-# Replace all spaces with "_"
+# Strip variable sen
 
-repl_1  = 
+strp  = 
 
-# Replace the first 3 spaces with "_"
 
-repl_2 = 
