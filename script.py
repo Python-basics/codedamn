@@ -1,6 +1,6 @@
 
 """
-String Is Digit 
+String Center Challenge
 """
 
 sen = "  Movies  Tonight   "
