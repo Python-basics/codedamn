@@ -1,6 +1,6 @@
 
 """
-String Partition
+String Ljust
 """
 
 sen = "  Movies  Tonight   "
