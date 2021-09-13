@@ -3,7 +3,7 @@
 String Strip 
 """
 
-sen = "  Movies  Tonight   "
+sen = "  Movies Tonight   "
 
 # Strip variable sen
 
