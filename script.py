@@ -1,6 +1,6 @@
 
 """
-String Is Lower 
+String Islower Method
 """
 
 # Find the lower case word in variable sen
