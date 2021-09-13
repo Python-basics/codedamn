@@ -1,6 +1,6 @@
 
 """
-String Strip 
+String Is Lower 
 """
 
 sen = "  Movies  Tonight   "
