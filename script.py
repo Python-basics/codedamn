@@ -1,6 +1,6 @@
 
 """
-String Rindex
+String Rstrip
 """
 
 sen = "  Movies  Tonight   "
