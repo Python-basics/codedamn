@@ -1,6 +1,6 @@
 
 """
-String Is Lower 
+String Is Alnum 
 """
 
 sen = "  Movies  Tonight   "
