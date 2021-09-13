@@ -1,6 +1,6 @@
 
 """
-String Center Challenge
+String Partition
 """
 
 sen = "  Movies  Tonight   "
