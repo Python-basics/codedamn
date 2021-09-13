@@ -1,12 +1,11 @@
 
 """
-String Is Alnum 
+String Isalnum Method
 """
 
-sen = "  Movies  Tonight   "
+# Create a function that checks a list and returns
+# a list with only alpha-num NO special characters
 
-# Strip variable sen
-
-strp  = 
-
-
+def alnum(passwords):
+    
+    
