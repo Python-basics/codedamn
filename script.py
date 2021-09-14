@@ -3,10 +3,12 @@
 String Ljust
 """
 
-sen = "  Movies  Tonight   "
+# Create a function a that places trailing "*"
+# Challenge up to 3 "*" round to the next interval of 3
+# eg. "Sam***"
+# eg. "Matt**"
+# eg. "Samuel***"
+# You can do this
 
-# Strip variable sen
-
-strp  = 
-
-
+def trailing_3(word):
+    
