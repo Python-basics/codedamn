@@ -1,12 +1,13 @@
 
 """
-String Ljust
+String First and Last Character
 """
 
-sen = "  Movies  Tonight   "
+# Create a function that "finds" the last 
+# occerance of a sub-string.  Make sure you 
+# remember find method returns -1 in not found
 
-# Strip variable sen
 
-strp  = 
-
+def last_char(letters):
+    
 
