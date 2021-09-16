@@ -1,12 +1,16 @@
 
 """
-String Leading 
+String Padding "_"
 """
 
-sen = "  Movies  Tonight   "
+# Like in previous excercise
+# are going to have leading "_" no more than 3
+# eg. _Peter  __Matt  ___Sam
 
-# Strip variable sen
+# Create that pads upto 3 _ preciding
 
-strp  = 
-
-
+def Pre_padding(word):
+    
+    
+    
+    
