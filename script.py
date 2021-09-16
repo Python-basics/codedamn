@@ -8,6 +8,6 @@ String Last Character
 # remember find method returns -1 in not found
 
 
-def last_char(letters):
+def last_char(letters,sub):
     
 
