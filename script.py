@@ -3,7 +3,7 @@
 String Ljust
 """
 
-# Create a function a that places trailing "*"
+# Create a function that places trailing "*"
 # Challenge up to 3 "*" round to the next interval of 3
 # eg. "Sam***"
 # eg. "Matt**"
