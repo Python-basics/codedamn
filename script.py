@@ -1,16 +1,11 @@
 
 """
-String Padding "_"
+String Strip trailing Space
 """
 
-# Like in previous excercise
-# are going to have leading "_" no more than 3
-# eg. _Peter  __Matt  ___Sam
+# Create a function that strips
+# only trailing spaces of a word
 
-# Create that pads upto 3 _ preciding
 
-def Pre_padding(word):
-    
-    
-    
+
     
