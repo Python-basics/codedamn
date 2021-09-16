@@ -8,7 +8,7 @@ String Ljust
 # eg. "Sam***"
 # eg. "Matt**"
 # eg. "Samuel***"
-# You can do this
+# Hint modulo, you can do this
 
 def trailing_3(word):
     
