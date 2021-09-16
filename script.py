@@ -1,6 +1,6 @@
 
 """
-String First and Last Character
+String Last Character
 """
 
 # Create a function that "finds" the last 
