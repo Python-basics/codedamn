@@ -9,6 +9,6 @@ String First / Last Index
 # you can use index methods
 
 
-def first_last(letters):
+def first_last(letters,sub):
     
 
