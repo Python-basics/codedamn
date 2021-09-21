@@ -7,5 +7,6 @@ String Strip trailing Space
 # only trailing spaces of a word
 
 
-
+def strp_trailing(word):
+    
     
