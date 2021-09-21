@@ -1,12 +1,12 @@
 
 """
-String Strip trailing Space
+Sum the List
 """
 
-# Create a function that strips
-# only trailing spaces of a word
+# Create a function that
+# returns the sum of a list of numbers
 
 
-def strp_trailing(word):
-    
+def summing_list(Numbers):
+       
     
