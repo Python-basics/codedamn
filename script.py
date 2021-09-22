@@ -3,8 +3,10 @@
 Rounding Grade Points
 """
 
-# Create a function that calculates 
-# then rounds a students grade
+# Create a function that takes a list
+# calculates and students grade
+# then rounds a students grade to nearest hundredth
 
-def round_grade(grade):
+
+def round_grade(grades):
     
