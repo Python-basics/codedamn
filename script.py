@@ -1,12 +1,11 @@
 
 """
-Sum the List
+Max and Min
 """
 
 # Create a function that
-# returns the sum of a list of numbers
+# returns a list of the max and min of a
+# dictionay values
 
-
-def summing_list(Numbers):
-    
+def Max_Min(Dict):
     
