@@ -10,5 +10,5 @@ Exponent Print Out
 
 
 def exp(root,power):
-    """ root^power"""
+    """ root^power returns string of equation"""
       
