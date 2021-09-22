@@ -1,13 +1,13 @@
 
 """
-Rounding Grade Points
+Exponent Print Out
 """
 
-# Create a function that takes a list
-# calculates a students grade then rounds
-# a students grade to nearest hundredth
-# eg. 78.32
+# Create a function that returns a 
+# string of the equation
+# 2^3 --> 2 x 2 x 2 = 8
 
 
-def round_grade(grades):
-    
+def exp(root,power):
+    """ root^power"""
+      
