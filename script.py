@@ -1,12 +1,10 @@
 
 """
-Absolute Value
+Rounding Grade Points
 """
 
-# Create a function that calculates the 
-# sum of a list the returns 
-# absolute value of even values
-# eg. -2 -> 2 : -3 -> -3
+# Create a function that calculates 
+# then rounds a students grade
 
-def abs_even(nums):
+def round_grade(grade):
     
