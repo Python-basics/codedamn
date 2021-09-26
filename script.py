@@ -1,15 +1,16 @@
 
 """
-Encode String
+Decode String
 """
 
 # Create a function that takes 2 arguments
 # first letters and second offset then 
-# returns a list of offset integers
-# eg. ('a', 3) -> [100]
-# eg. ('cat', 2) -> [101, 99, 118]
+# returns a string of offset characters
+# eg. ('a', 3) -> 'd'
+# eg. ('cat', 2) -> 'ecv'
 
 
-def offset(letters, move):
+def offset_print(letters, move):
+    """return string of offset chracters
     
       
