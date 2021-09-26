@@ -11,6 +11,6 @@ Decode String
 
 
 def offset_print(letters, move):
-    """return string of offset chracters
+    """return string of offset chracters"""
     
       
