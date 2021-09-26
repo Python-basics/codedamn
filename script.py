@@ -1,14 +1,15 @@
 
 """
-Exponent Print Out
+Encode String
 """
 
-# Create a function that returns a 
-# string of the equation
-# 2^3 --> 2 x 2 x 2 = 8
-# 
+# Create a function that takes 2 arguments
+# first letters and second offset then 
+# returns a list of offset integers
+# eg. ('a', 3) -> [100]
+# eg. ('cat', 2) -> [99, 97, 116]
 
 
-def exp(root,power):
-    """ root^power returns string of equation"""
+def offset(letters, move):
+    
       
