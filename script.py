@@ -4,7 +4,7 @@ Sort Lists
 """
 
 # Create a function that returns a 
-# sorted a list of lists by index 1 
+# sorted list of lists by index 1 
 
 def index(l):
     """use with key argument"""
