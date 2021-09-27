@@ -4,10 +4,10 @@ Sort Lists
 """
 
 # Create a function that sorts a list 
-# of lists by 0,1 or 2 index
+# of lists by index 1
 
-def index(l,place):
-    """l for list and place for index"""
+def index(l):
+    
 
     
     
