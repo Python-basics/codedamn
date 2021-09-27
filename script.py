@@ -4,8 +4,9 @@ Number a List
 """
 
 # Create a function that returns a
-# numbered list with a starting point
+# enmerated object from the starting point
+# which is given
 
 def numbered(l,start):
-    """Take l and start numbering at start"""
+    """Take l and start numbering with start argument"""
     
