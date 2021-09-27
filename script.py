@@ -11,6 +11,6 @@ def index(l):
 
     
     
-def sort_index(l_o_l,place):
+def sort_index(l_o_l):
     """Use the helper function"""
     
