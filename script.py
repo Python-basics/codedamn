@@ -1,16 +1,11 @@
 
 """
-Decode String
+Sort Lists
 """
 
-# Create a function that takes 2 arguments
-# first letters and second offset then 
-# returns a string of offset characters
-# eg. ('a', 3) -> 'd'
-# eg. ('cat', 2) -> 'ecv'
+# Create a function that sorts a list 
+# of lists by 0,1 or 2 index
 
 
-def offset_print(letters, move):
-    """return string of offset chracters"""
+def sort_index(nums,place):
     
-      
