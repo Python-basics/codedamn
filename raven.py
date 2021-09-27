@@ -1,6 +1,6 @@
 
 
-text = '''                                      1845
+text = '''                            1845
                                    THE RAVEN
                                by Edgar Allan Poe
 
