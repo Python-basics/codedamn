@@ -1,16 +1,11 @@
 
 """
-Sort Lists
+Number a List
 """
 
-# Create a function that returns a 
-# sorted list of lists by index 1 
+# Create a function that returns a
+# numbered list with a starting point
 
-def index(l):
-    """use with key argument"""
-
-    
-    
-def sort_index(l_o_l):
-    """Use the helper function"""
+def number(l,start):
+    """Take l and start numbering at start"""
     
