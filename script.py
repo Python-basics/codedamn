@@ -4,7 +4,7 @@ Counting Words
 """
 
 # Create a function that returns a
-# list of the top 10 words (in accending order)
+# list of the top 5 words (in accending order)
 # used and the number of occerances
 # eg. [('the', 56)]
 
