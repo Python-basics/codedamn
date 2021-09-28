@@ -1,12 +1,11 @@
 
 """
-Number a List
+Zip two lists
 """
 
 # Create a function that returns a
-# enumerate object from the starting point
-# which is given
+# list of two lists zipped together
 
-def numbered(l,start):
-    """Take l and start numbering with start argument"""
+def zipped (l_1,l_2):
+    """l_1 first then l_2"""
     
