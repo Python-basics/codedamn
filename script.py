@@ -13,6 +13,8 @@ Counting Words
 
 from raven import text
 
+def last(x):
+    return x[-1]
 
 def counting(poem):
     """Count the words in a poem"""
