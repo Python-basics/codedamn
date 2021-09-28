@@ -1,14 +1,16 @@
 
 """
-Number a List
+Counting Words
 """
 
 # Create a function that returns a
-# dictionary of all accurances of a
-# word in a poem
+# list of the top 10 words (in accending order)
+# used and the number of occerances
+# eg. [('the', 56)]
 
 # importing the text of the poem raven
 # to variable text
+
 from raven import text
 
 
