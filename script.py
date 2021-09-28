@@ -14,6 +14,6 @@ Counting Words
 from raven import text
 
 
-def Counting(poem):
+def counting(poem):
     """Count the words in a poem"""
     
