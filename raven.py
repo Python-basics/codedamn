@@ -143,5 +143,5 @@ text = '''                            1845
                 Shall be lifted- nevermore!
 
                              -THE END-
-.
+                             
 '''
