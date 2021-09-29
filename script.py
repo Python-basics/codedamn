@@ -3,10 +3,10 @@
 Alphbetical Order
 """
 
-# Create a function that returns a
-# a string of the word from The Raven
-# that occur 7 times, reorders of the 
-# characters in alphabetical order
+# Create a function that returns a string 
+# of the characters of the word from 
+# The Raven that occur 7 times, reorder
+# of the characters in alphabetical order
 # eg. ['by', 'nothing', 'was', 'soul', 'into', 'thy', 'on', 'Raven,']
 # don't use those, they occur 6 time
 # take those characers place them in order and 
