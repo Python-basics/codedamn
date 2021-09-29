@@ -1,13 +1,14 @@
 
 """
-Accending Order
+Alphbetical Order
 """
 
 # Create a function that returns a
 # a string of the word from The Raven
 # that occur 7 times, reorders of the 
 # characters in alphabetical order
-# eg. ['in', 'with', 'no', 'or', 'above', 'from', 'his']
+# eg. ['by', 'nothing', 'was', 'soul', 'into', 'thy', 'on', 'Raven,']
+# don't use those, they occur 6 time
 # take those characers place them in order and 
 # join as a single string
 
