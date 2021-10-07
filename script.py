@@ -1,23 +1,15 @@
 
 """
-Alphbetical Order
+Dictionary Values
 """
 
-# Create a function that returns a string 
-# of the characters of the word from 
-# The Raven that occur 7 times, reorder
-# of the characters in alphabetical order
-# eg. ['by', 'nothing', 'was', 'soul', 'into', 'thy', 'on', 'Raven,']
-# don't use those, they occur 6 time
-# take the characers place them in order and 
-# join as a single string
-# eg. ["the", "by"] -> 'behty'
+# Create a function that checks if the 
+# values of a dictionary are int or str
+# if int -> returns [max, min, and sum(of remaining ints)]
+# if str -> returns dicipered string
+# use key as offest like we used in ord/chr
+# eg. d[4]:"_]p" -> 'cat'
 
-# importing the text of the poem raven
-# to variable text
-
-from raven import text
-
-def alpha_order_7(poem):
-    """alpha order string"""
+def Math_or_dicipher(poem):
+    """Values int or str"""
     
