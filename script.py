@@ -10,6 +10,6 @@ Dictionary Values
 # use key as offest like we used in ord/chr
 # eg. d[4]:"_]p" -> 'cat'
 
-def Math_or_dicipher(d):
+def math_or_dicipher(d):
     """Values int or str"""
     
