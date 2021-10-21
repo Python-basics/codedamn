@@ -9,7 +9,7 @@ check = "hs"
 
 answers = []
 
-# iterate through words and check if test is a member
+# iterate through words and test if check is a member
 # append result to list ansers
 
 # code below
