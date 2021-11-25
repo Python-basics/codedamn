@@ -8,7 +8,7 @@ names = ["Sam", "Paul", "John", "Matt"]
 
 greeting = "Hello, nice to meet you, "
 
-# sort dictionary names 
+# sort list names 
 
 
 # iterate through names cancatenate each name to greeting
