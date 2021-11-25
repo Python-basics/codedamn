@@ -6,7 +6,7 @@ String Assignment
 
 names = ["Sam", "Paul", "John", "Matt"]
 
-greeting = "Hello, nice to meet you, "
+greeting = "Hello, nice to meet you "
 
 # sort list names 
 
