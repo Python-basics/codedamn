@@ -4,7 +4,7 @@ import modules
 """
 
 
-# import the sys module
+# import the random module
 
 
 
