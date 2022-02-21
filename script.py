@@ -1,11 +1,10 @@
 
 """
-23) inport modules
-
+import modules
 """
 
 
-# import the math module
+# import the sys module
 
 
 
